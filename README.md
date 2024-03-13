@@ -17,10 +17,12 @@ const fatima = {
 <br/>
 
 ## 📊 Stats
- &nbsp; 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FatimaBadaoui&theme=tokyonight&mode=weekly)](https://git.io/streak-stats) &nbsp;  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaBadaoui&show_icons=true&theme=tokyonight)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=FatimaBadaoui&theme=tokyonight&mode=weekly)](https://git.io/streak-stats) 
+<br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaBadaoui&show_icons=true&theme=tokyonight)
 <br/> <br/>
- &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaBadaoui&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaBadaoui&layout=compact)
 
 <br/>
 
