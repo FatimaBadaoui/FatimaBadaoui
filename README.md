@@ -15,14 +15,13 @@ const fatima = {
 };
 ```
 <br/>
-<hr/>
-<br/>
 
-<h2>📊 Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FatimaBadaoui&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+## 📊 Stats
+ &nbsp; 
+[![GitHub Streak](https://streak-stats.demolab.com?user=FatimaBadaoui&theme=tokyonight&mode=weekly)](https://git.io/streak-stats) &nbsp;  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaBadaoui&show_icons=true&theme=tokyonight)
+<br/> <br/>
+ &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaBadaoui&layout=compact)
 
-<br/>
-<hr/>
 <br/>
 
 ## 🧰 My ToolBox
