@@ -18,11 +18,8 @@ const fatima = {
 
 ## 📊 Stats
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=FatimaBadaoui&theme=tokyonight&mode=weekly)](https://git.io/streak-stats) 
-<br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaBadaoui&show_icons=true&theme=tokyonight)
-<br/> <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaBadaoui&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaBadaoui&show_icons=true&theme=tokyonight) &emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaBadaoui&layout=compact)
 
 <br/>
 
@@ -36,6 +33,7 @@ const fatima = {
 [![](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)]()
 [![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]()
 [![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
+[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
@@ -43,8 +41,11 @@ const fatima = {
 [![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)]()
+[![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]()
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 <!---
 FatimaBadaoui/FatimaBadaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
