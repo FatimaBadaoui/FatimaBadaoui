@@ -30,7 +30,7 @@ const fatima = {
 icons:
 https://github.com/tandpfun/skill-icons#readme
 --->
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactrouter,prettier,.env,axios,canva,trello,excalidraw,stackoverflow)](https://simpleskill.icons.workers.dev/svg)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=json,jsonwebtokens,expo,vercel,mdnwebdocs,notion&theme=dark)](https://simpleskill.icons.workers.dev/svg)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=reactrouter,prettier,.env,axios,canva,trello,excalidraw,stackoverflow)](https://simpleskill.icons.workers.dev/svg)[![My Skills](https://simpleskill.icons.workers.dev/svg?i=json,jsonwebtokens,expo,vercel,mdnwebdocs&theme=dark)](https://simpleskill.icons.workers.dev/svg)
 
 <!-- 
 simple icons:
