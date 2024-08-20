@@ -24,7 +24,7 @@ const fatima = {
 <br/>
 
 ## 🧰 My ToolBox
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,react,styledcomponents,vite,vscode,git,github,nodejs,npm,mongodb,express,postman,ts,md,nextjs,threejs,linux,figma,notion,java,androidstudio,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,tailwind,react,styledcomponents,vite,vscode,git,github,nodejs,npm,yarn,mongodb,express,postman,ts,md,nextjs,threejs,linux,figma,notion,java,androidstudio,kotlin)](https://skillicons.dev)
 
 <!---
 icons:
